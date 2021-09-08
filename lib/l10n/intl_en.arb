@@ -1,0 +1,38 @@
+{
+    "kanban": "Kanban",
+    "@test": {
+      "description": ""
+    },
+    "enterUserName": "Enter your username",
+    "@enterUserName": {
+      "description": ""
+    },
+    "enterUserPass": "Enter your password",
+    "@enterUserPass": {
+      "description": ""
+    },
+    "logIn": "Log in",
+    "@logIn": {
+      "description": ""
+    },
+    "onHold": "On hold",
+    "@onHold": {
+      "description": ""
+    },
+    "inProgress": "In progress",
+    "@inProgress": {
+      "description": ""
+    },
+    "needsRevison": "Needs revision",
+    "@needsRevison": {
+      "description": ""
+    },
+    "approved": "Approved",
+    "@approved": {
+      "description": ""
+    },
+    "id": "id",
+    "@id": {
+      "description": ""
+    }
+}
